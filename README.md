@@ -1,6 +1,5 @@
 <h1 style="color: #1f8dd6; text-align: center;">My Machine Learning Journey</h1>
-<p style="text-align: center;">This repository documents my personal machine learning journey, mostly including the Kaggle competitions I have attended,<br>
-along with some notes and projects. It serves as a record of my progress and growth in the field of machine learning.</p>
+<p style="text-align: center;">This repository documents my personal machine learning journey, mostly including the Kaggle competitions I have attended, along with some notes and projects. It serves as a record of my progress and growth in the field of machine learning.</p>
 
 <p style="text-align: center;"><img alt="coding" width="400" src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif"></p>
 
