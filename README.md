@@ -6,8 +6,7 @@
 <h1 style="color: #1f8dd6; text-align: center;">List of Competitions</h1>
 
 <ol>
-  <li>
-    <h2>House Price Prediction-Advanced Regression</h2>
+    <h2>1. House Price Prediction-Advanced Regression</h2>
     <p>
       <strong>Description:</strong> The House Price Advanced Regression competition aimed to predict the sale prices of residential homes based on various features such as area, number of bedrooms, location, etc. The objective was to develop a regression model that could accurately estimate the sale price of a house given its characteristics.
     </p>
@@ -28,3 +27,28 @@
     </p>
   </li>
 </ol>
+<h2>2. Titanic Dataset</h2>
+
+<p>The Titanic Kaggle competition is inspired by the tragic sinking of the RMS Titanic in 1912. The dataset used in the competition contains information about Titanic passengers, including their age, sex, cabin class, fare, and whether they survived or not. The objective of the competition is to create a predictive model that accurately determines the survival outcome of passengers based on these features.</p>
+
+<h3>Dataset</h3>
+
+<p>The dataset provided for the competition is divided into two parts: a training set (<code>train.csv</code>) and a test set (<code>test.csv</code>). The training set consists of labeled data, where each passenger's survival outcome is provided. On the other hand, the test set contains passenger information without the survival labels. Participants are required to train their models on the training set and make predictions on the test set for evaluation.</p>
+
+<h3>Evaluation</h3>
+
+<p>The performance of the predictive models is evaluated using accuracy, which measures the percentage of correctly predicted survival outcomes. Participants are expected to submit their predictions for the test set to the Kaggle platform, where the accuracy of their models will be calculated and ranked on the competition leaderboard.</p>
+
+<h3>Dependencies</h3>
+
+<p>The notebook relies on the following libraries and dependencies:</p>
+
+<ol>
+  <li>Python 3.x</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>scikit-learn</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+</ol>
+
