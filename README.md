@@ -14,7 +14,8 @@
       
 <h2>2. Titanic Dataset</h2>
 
-<p>The Titanic Kaggle competition is inspired by the tragic sinking of the RMS Titanic in 1912. The dataset used in the competition contains information about Titanic passengers, including their age, sex, cabin class, fare, and whether they survived or not. The objective of the competition is to create a predictive model that accurately determines the survival outcome of passengers based on these features.</p>
+<p><strong>Description:</strong>The Titanic Kaggle competition is inspired by the tragic sinking of the RMS Titanic in 1912. The dataset used in the competition contains information about Titanic passengers, including their age, sex, cabin class, fare, and whether they survived or not. The objective of the competition is to create a predictive model that accurately determines the survival outcome of passengers based on these features.</p>
+
 
 <h3>Dependencies</h3>
 
